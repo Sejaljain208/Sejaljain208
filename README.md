@@ -94,7 +94,7 @@ A privacy-focused carbon footprint tracking application designed to analyze envi
 
 <p align="left">
   <a href="www.linkedin.com/in/sejal-jain-4454612b2">LinkedIn</a> •
-  <a href="[YOUR_PORTFOLIO_URL](https://portfolio-sejal23.netlify.app/)">Portfolio</a> •
+  <a href="https://portfolio-sejal23.netlify.app/">Portfolio</a> •
   <a href="https://leetcode.com/u/Jain_Sejal_208/">LeetCode</a>
 </p>
 
