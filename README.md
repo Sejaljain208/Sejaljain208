@@ -101,4 +101,3 @@ A privacy-focused carbon footprint tracking application designed to analyze envi
 ⭐ Thanks for visiting my profile!
 ---
 
-⭐ **Thanks for visiting my profile!**
